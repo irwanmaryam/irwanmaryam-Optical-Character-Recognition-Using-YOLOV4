@@ -4,7 +4,7 @@
 YOLOv4, YOLOv4-tiny Implemented in Tensorflow 2.0. 
 Convert YOLO v4, YOLOv3, YOLO tiny .weights to .pb, .tflite and trt format for tensorflow, tensorflow lite, tensorRT.
 
-Download yolov4.weights file: https://drive.google.com/open?id=1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT
+Download yolov4.weights file: https://drive.google.com/file/d/1EUPtbtdF0bjRtNjGv436vDY28EN5DXDH/view?usp=sharing
 
 
 ### Prerequisites
@@ -158,24 +158,8 @@ python train.py --weights ./data/yolov4.weights
 The training performance is not fully reproduced yet, so I recommended to use Alex's [Darknet](https://github.com/AlexeyAB/darknet) to train your own data, then convert the .weights to tensorflow or tflite.
 
 
-
-### TODO
-* [x] Convert YOLOv4 to TensorRT
-* [x] YOLOv4 tflite on android
-* [ ] YOLOv4 tflite on ios
-* [x] Training code
-* [x] Update scale xy
-* [ ] ciou
-* [ ] Mosaic data augmentation
-* [x] Mish activation
-* [x] yolov4 tflite version
-* [x] yolov4 in8 tflite version for mobile
-
 ### References
 
-  * YOLOv4: Optimal Speed and Accuracy of Object Detection [YOLOv4](https://arxiv.org/abs/2004.10934).
-  * [darknet](https://github.com/AlexeyAB/darknet)
-  
    My project is inspired by these previous fantastic YOLOv3 implementations:
-  * [Yolov3 tensorflow](https://github.com/YunYang1994/tensorflow-yolov3)
-  * [Yolov3 tf2](https://github.com/zzh8829/yolov3-tf2)
+  * [Yolov4 tflite](https://github.com/theAIGuysCode/yolov4-deepsort)
+  
