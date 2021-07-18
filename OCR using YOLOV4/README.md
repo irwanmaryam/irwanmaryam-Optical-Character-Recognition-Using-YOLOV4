@@ -10,6 +10,7 @@ Download yolov4.weights file: https://drive.google.com/file/d/1EUPtbtdF0bjRtNjGv
 ### Prerequisites
 * Tensorflow 2.3.0rc0
 * pytesseract
+* opencv
 
 ### Performance
 <p align="center"><img src="data/performance.png" width="640"\></p>
