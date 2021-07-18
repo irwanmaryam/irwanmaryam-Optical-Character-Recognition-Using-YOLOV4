@@ -42,6 +42,11 @@ If you want to run yolov3 or yolov3-tiny change ``--model yolov3`` in command
 <p align="center"><img src="ocr/objectcrop.png" width="640"\></p>
 
 
+##### Final output of this project
+
+:covid19)
+
+
 ### Convert to tflite
 
 ```bash
