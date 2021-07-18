@@ -161,6 +161,6 @@ The training performance is not fully reproduced yet, so I recommended to use Al
 
 ### References
 
-   My project is inspired by these previous fantastic YOLOv3 implementations:
+   My project is inspired by these previous fantastic YOLOv4 implementations:
   * [Yolov4 tflite](https://github.com/theAIGuysCode/yolov4-deepsort)
   
