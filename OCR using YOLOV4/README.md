@@ -23,7 +23,7 @@ Download yolov4.weights file: https://drive.google.com/file/d/1EUPtbtdF0bjRtNjGv
 python save_model.py --weights ./data/yolov4.weights --output ./checkpoints/yolov4-416 --input_size 416 --model yolov4 
 
 
-python detect.py --weights ./checkpoints/yolov4-tiny-416 --size 416 --model yolov4 --image 'YOUR DATA' --
+python detect.py --weights ./checkpoints/yolov4-tiny-416 --size 416 --model yolov4 --image 'YOUR DATA' 
 
 ```
 If you want to run yolov3 or yolov3-tiny change ``--model yolov3`` in command
