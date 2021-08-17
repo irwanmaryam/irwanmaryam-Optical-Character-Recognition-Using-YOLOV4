@@ -47,5 +47,5 @@ If you want to run yolov3 or yolov3-tiny change ``--model yolov3`` in command
 ### References
 
    My project is inspired by these previous fantastic YOLOv4 implementations:
-  * [Yolov4 tflite](https://github.com/theAIGuysCode/yolov4-deepsort)
+  * [Yolov4 tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite)
   
