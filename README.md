@@ -28,14 +28,15 @@ python detect.py --weights ./checkpoints/yolov4-tiny-416 --size 416 --model yolo
 ```
 If you want to run yolov3 or yolov3-tiny change ``--model yolov3`` in command
 
-#### Output
+#### Output for vehicle detection
 
 ##### Yolov4 of this project
-<p align="center"><img src="vehicle detection/tensorflow-yolov4-tflite/result.png" width="640"\></p>
+<p align="center"><img src="vehicle detection/tensorflow-yolov4-tflite/data/result2.jpg" width="640"\></p>
 
 ##### the cropping of the project
-<p align="center"><img src="vehicle detection/tensorflow-yolov4-tflite/data/vehicle/vehiclecrop1.png" width="250"\></p>
-
+<p align="center"><img src="vehicle detection/tensorflow-yolov4-tflite/data/vehicle/vehiclecrop0.png" width="250"\></p>
+<p align="center"><img src="vehicle detection/tensorflow-yolov4-tflite/data/vehicle/vehiclecrop0.png" width="250"\></p>
+<p align="center"><img src="vehicle detection/tensorflow-yolov4-tflite/data/vehicle/vehiclecrop0.png" width="250"\></p>
 
 ##### Final output of this project
 
