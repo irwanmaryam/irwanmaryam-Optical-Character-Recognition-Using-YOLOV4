@@ -34,7 +34,9 @@ If you want to run yolov3 or yolov3-tiny change ``--model yolov3`` in command
 <p align="center"><img src="data/result2.jpg" width="640"\></p>
 
 ##### the cropping of the project
+<p align="center"><img src="data/vehicle/vehiclecrop0.png" width="250"\></p>
 <p align="center"><img src="data/vehicle/vehiclecrop1.png" width="250"\></p>
+<p align="center"><img src="data/vehicle/vehiclecrop2.png" width="250"\></p>
 
 
 ##### Final output of this project
