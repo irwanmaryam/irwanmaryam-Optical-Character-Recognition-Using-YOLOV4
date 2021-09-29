@@ -38,6 +38,16 @@ If you want to run yolov3 or yolov3-tiny change ``--model yolov3`` in command
 <p align="center"><img src="vehicle detection/tensorflow-yolov4-tflite/data/vehicle/vehiclecrop0.png" width="250"\></p>
 <p align="center"><img src="vehicle detection/tensorflow-yolov4-tflite/data/vehicle/vehiclecrop0.png" width="250"\></p>
 
+
+#### Output for OCR
+
+##### Yolov4 of this project
+<p align="center"><img src="OCR using YOLOV4/result.png" width="640"\></p>
+
+##### the cropping of the project
+<p align="center"><img src="OCR using YOLOV4/ocr/objectcrop.png" width="640"\></p>
+
+
 ##### Final output of this project
 
 :covid19)
