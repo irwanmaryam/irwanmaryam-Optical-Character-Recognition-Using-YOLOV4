@@ -1,4 +1,4 @@
-# Object Detection and OCR using YOLOv4 and tesseract
+# Object Detection and OCR Projects
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 YOLOv4, YOLOv4-tiny Implemented in Tensorflow 2.0. 
