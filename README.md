@@ -38,35 +38,13 @@ License Plate Detection : https://drive.google.com/file/d/1EUPtbtdF0bjRtNjGv436v
 
 Car Detection : https://drive.google.com/open?id=1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT
 
-### Performance
-<p align="center"><img src="data/performance.png" width="640"\></p>
 
-### copy the following syntax to run in terminal or cloud
+### Todo
 
-```bash
-# Convert darknet weights to tensorflow
-## yolov4
-python save_model.py --weights ./data/yolov4.weights --output ./checkpoints/yolov4-416 --input_size 416 --model yolov4 
-
-
-python detect.py --weights ./checkpoints/yolov4-tiny-416 --size 416 --model yolov4 --image 'YOUR DATA' 
-
-```
-If you want to run yolov3 or yolov3-tiny change ``--model yolov3`` in command
-
-#### Output for vehicle detection
-
-##### Yolov4 of this project
-
-##### the cropping of the project
-<p align="center"><img src="vehicle detection/tensorflow-yolov4-tflite/data/vehicle/vehiclecrop0.png" width="250"\></p>
-<p align="center"><img src="vehicle detection/tensorflow-yolov4-tflite/data/vehicle/vehiclecrop0.png" width="250"\></p>
-<p align="center"><img src="vehicle detection/tensorflow-yolov4-tflite/data/vehicle/vehiclecrop0.png" width="250"\></p>
-
-
-
-
-
+* [x] Detect vehicle only
+* [x] Detect the license plate
+* [x] Crop the Detection
+* [ ] Vehicle Counting based on its categories
 
 ### References
 
