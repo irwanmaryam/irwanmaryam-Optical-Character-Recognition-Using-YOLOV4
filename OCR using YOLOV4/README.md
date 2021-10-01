@@ -49,7 +49,7 @@ python detect.py --weights ./checkpoints/yolov4-tiny-416 --size 416 --model yolo
 * [x] Detect the license plate
 * [x] Crop the Detection
 * [x] Perform the OCR on detection
-* [ ] Perform the PDF file
+* [ ] Perform the OCR on PDF file
 
 
 ### References
